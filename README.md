@@ -9,3 +9,15 @@ The following machine learning regression algorithms will be tested:
 - Decision Tree Regression
 - Random Forest Regression
 
+## The R2 Score Verdict
+The R2 score for the various machine learning models for regression in order of performance:
+Random Forrest Regressor - 81%
+Polynomial Regressor - 63%
+Multiple Linear Regressor - 62%
+Decision Tree Regressor - 62.5%
+Support Vector Regressor - 32%
+
+The adjustment of each models hyperparameters may improve the model's performance.
+You are free to explore using the models are given.
+Suggestions on how to further improve the model is welcome
+
