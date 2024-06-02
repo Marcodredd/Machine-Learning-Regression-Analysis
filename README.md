@@ -18,6 +18,6 @@ Decision Tree Regressor - 62.5%
 Support Vector Regressor - 32%
 
 The adjustment of each models hyperparameters may improve the model's performance.
-You are free to explore using the models are given.
+You are free to explore using the models as given.
 Suggestions on how to further improve the model is welcome
 
